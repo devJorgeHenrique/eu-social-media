@@ -1,2 +1,2 @@
 # eu-socialmedia
- Lading Page do curso Eu Social Media
+ Landing Page do curso Eu Social Media
